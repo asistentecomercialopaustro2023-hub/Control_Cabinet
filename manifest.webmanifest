@@ -1,0 +1,26 @@
+{
+  "name": "ICE",
+  "short_name": "ICE",
+  "description": "Control y seguimiento de cabinets ICE Opaustro",
+  "id": "./outputs/control-cabinets-v3.html",
+  "start_url": "./outputs/control-cabinets-v3.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#075985",
+  "theme_color": "#075985",
+  "lang": "es-EC",
+  "icons": [
+    {
+      "src": "recursos/ice-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "recursos/ice-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
